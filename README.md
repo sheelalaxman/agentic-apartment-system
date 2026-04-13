@@ -3,4 +3,5 @@ Agentic AI as service which provides automating the apartment management system 
 
 # Tech Stack
 Programming Language : Java 8  
-DataBase : MongoDB
+DataBase : MongoDB  
+LLM Itegration : LangChain4j  
